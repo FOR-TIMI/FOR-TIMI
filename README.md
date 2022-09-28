@@ -7,3 +7,5 @@
 - 📫 How to reach me: femiladiranerife24@gmail.com
 - 💜 I enjoy creating delightful experiences for all stakeholders and playing the piano 🎹 
 
+Read about what else i'm up to on [my site](https://for-timi.github.io/My-Portfolio/) 
+
