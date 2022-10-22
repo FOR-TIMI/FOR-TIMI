@@ -9,6 +9,7 @@
 
 Read about what else i'm up to on [my site](https://for-timi.github.io/My-Portfolio/) 
 
-
+## Support
+If you appreciate some of my work [Buy me a coffee](https://www.buymeacoffee.com/timiplayskU) <br><br>
 <a href="https://www.buymeacoffee.com/timiplayskU" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="31" width="174"></a>
 
