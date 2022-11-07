@@ -1,7 +1,7 @@
 ### Hi there, I'm Femi Ladiran Erifeoluwa Oluwatimileyin but everyone calls me TIMI 👋
 
 
-- 💼 I’m a software developer
+- 💼 I’m a Software Engineer
 - 🌱 I’m currently learning API development
 - ⭐ My speciality is MERN stack
 - 📫 How to reach me: femiladiranerife24@gmail.com
