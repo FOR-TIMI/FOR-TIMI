@@ -2,7 +2,7 @@
 
 
 - 💼 I’m a Full stack developer
-- 🌱 I’m currently learning web3
+- 🌱 I’m currently learning angular
 - 📫 How to reach me: femiladiranerife24@gmail.com
 - 💜 I enjoy creating delightful applications for all stakeholders and playing the piano 🎹 
 
