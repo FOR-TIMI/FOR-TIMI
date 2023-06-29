@@ -2,7 +2,7 @@
 
 
 - 💼 I’m a Full stack developer
-- 🌱 I’m currently learning System design
+- 🌱 I’m currently learning System archeitcture
 - 📫 How to reach me: femiladiranerife24@gmail.com
 - 💜 I enjoy creating delightful applications for all stakeholders and playing the piano 🎹 
 
