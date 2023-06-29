@@ -1,4 +1,4 @@
-### Hi there, I'm Femi Ladiran Erifeoluwa Oluwatimileyin but everyone calls me TIMI 👋
+### Hi there, I'm Femi Ladiran Erifeoluwa but everyone calls me TIMI 👋
 
 
 - 💼 I’m a Full stack developer
